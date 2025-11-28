@@ -1,10 +1,10 @@
-🗂️ Modelagem de Banco de Dados
+# 🗂️ Modelagem de Banco de Dados
 
 Repositório de Modelagem de Banco de Dados (1º Semestre - ADS), dedicado ao estudo de modelagem relacional, normalização e implementação SQL.
 
-📂 Projetos Desenvolvidos
+## 📂 Projetos Desenvolvidos
 
-🏙️ Smart City: Sistema de Segurança Pública
+### 🏙️ Smart City: Sistema de Segurança Pública
 
 Projeto completo de modelagem para uma Cidade Inteligente, focado no monitoramento urbano e gestão de ocorrências.
 
@@ -14,7 +14,7 @@ Modelagem Lógica: Estruturação das tabelas, tipagem de dados e chaves (PK/FK)
 
 Implementação Física: Scripts SQL para criação do banco (DDL) e manipulação de dados (DML).
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
 
@@ -31,7 +31,7 @@ SQL (PostgreSQL): Linguagem utilizada para os scripts de banco de dados.
 
 VS Code: Edição e versionamento dos scripts.
 
-🧠 Tópicos Abordados
+## 🧠 Tópicos Abordados
 
 Durante o desenvolvimento deste repositório, foram aplicados os seguintes conceitos:
 
